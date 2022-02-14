@@ -102,13 +102,12 @@
         <div class="row" style="color: #ffbb2b">
             <div class="col-md-4 wellfix">
               <h4><strong>Contact Us</strong></h4><hr>
-              Address : Raipur Chhattisgarh<br>
-              Mail : projectworldsoffcial@gmail.com <br>
+              Address : India<br><br>
             </div>
             <div class="col-md-4"></div>
             <div class="col-md-4 wellfix">
                 <h4><strong>Developed By</strong></h4><hr>
-                <a href="#">@Projectworlds.in</a>
+                <a href="https://github.com/harishkumarnandakumar/Hotel-Booking">Harish Kumar N</a>
 
             </div>
         </div>
